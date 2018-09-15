@@ -13,9 +13,10 @@ Phone: (786) 261-6131 | E-mail: glaso95@gmail.com | Location: Miami, FL
 Objectives
 .IP
 A recent graduate in the information technology field. A quick learner
-and an even quicker thinker. Primarily focused on legacy systems but
-proficient in modern technologies as well. Hopes to integrate and expand
-in whichever environment is found.
+and an even quicker thinker. Works well in team situations. Primarily
+focused on legacy systems but proficient in modern technologies as well.
+Hoping to integrate and expand in whichever environment presents itself. 
+.2C
 .SH
 Education
 .IP -
@@ -24,23 +25,23 @@ Florida International University
 .IP \[bu]
 August 2013 - May 2018
 .IP \[bu]
-Bachelor of Science (B.S.) in Information Technology
+Bachelor of Science (B.S.) in IT
 .RE
 .SH
 Skills, Languages and Technologies
 .IP -
-.B "Programming/Computing Languages"
+Programming/Computing Languages
 .RS
 .IP \[bu]
 C/C++
 .IP \[bu]
 Objective-C
 .IP \[bu]
+C# and .NET Framework
+.IP \[bu]
 Java
 .IP \[bu]
-HTML5, CSS3, PHP
-.IP \[bu]
-MySQL, SQL Server, PostgreSQL
+HTML5, CSS3, PHP, SQL
 .IP \[bu]
 x86, PDP11, M68k Assembler
 .IP \[bu]
@@ -48,12 +49,12 @@ FORTRAN 77
 .IP \[bu]
 COBOL
 .IP \[bu]
-Bourne/Bash Shell Scripting
+UNIX Shell Scripting
 .IP \[bu]
-PowerShell Scripting
+Windows Scripting
 .RE
 .IP -
-.B "Operating Systems"
+Operating Systems
 .RS
 .IP \[bu]
 Unix/Linux/*BSD
@@ -63,10 +64,10 @@ Windows
 MS-DOS
 .RE
 .IP -
-.B "Software"
+Software
 .RS
 .IP \[bu]
-Unix development environent (e.g. cc/ld/make/ed/grep/sed)
+UNIX Toolchain
 .IP \[bu]
 Visual Studio
 .IP \[bu]
@@ -75,31 +76,38 @@ NetBeans
 VirtualBox
 .RE
 .IP -
-.B "Spoken Languages"
+Spoken Languages
 .RS
 .IP \[bu]
-Spanish
+Spanish - Native
 .IP \[bu]
-English
+English - Native
 .IP \[bu]
 German
 .RE
+.sp 4
 .SH
-.bp
+.sp
 Career History
 .IP -
-Highlighting Education - 2016-2018
+OffCulture, LLC - 2017-2018
 .RS
 .IP \[bu]
-Web developer and system administrator
+Web Developer
 .IP \[bu]
 Miami, FL
 .RE
 .IP -
-Giga Networks, Inc.
+Highlighting Education - 2016-2018
 .RS
 .IP \[bu]
-Summer 2013
+Web Developer & Administrator
+.IP \[bu]
+Miami, FL
+.RE
+.IP -
+Giga Networks, Inc. - Summer 2013
+.RS
 .IP \[bu]
 Programming Intern
 .IP \[bu]
