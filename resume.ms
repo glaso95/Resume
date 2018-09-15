@@ -1,4 +1,4 @@
-.ce 3
+.ce 4
 .ps 24
 .B "Giancarlo Laso"
 .ps 10
@@ -6,6 +6,7 @@
 .sp 2
 .B1
 Phone: (786) 261-6131 | E-mail: glaso95@gmail.com | Location: Miami, FL
+| Github: https://github.com/glaso95 |
 .B2
 .ps 12
 .SH
@@ -24,8 +25,6 @@ Florida International University
 August 2013 - May 2018
 .IP \[bu]
 Bachelor of Science (B.S.) in Information Technology
-.IP \[bu]
-Miami, FL
 .RE
 .SH
 Skills, Languages and Technologies
@@ -86,7 +85,16 @@ English
 German
 .RE
 .SH
+.bp
 Career History
+.IP -
+Highlighting Education - 2016-2018
+.RS
+.IP \[bu]
+Web developer and system administrator
+.IP \[bu]
+Miami, FL
+.RE
 .IP -
 Giga Networks, Inc.
 .RS
@@ -97,17 +105,9 @@ Programming Intern
 .IP \[bu]
 Miami, FL
 .RE
-.IP -
-Highlighting Education
-.RS
-.IP \[bu]
-2016-2018
-.IP \[bu]
-Miami, FL
-.RE
 .SH
 Certifications/Awards
-.IP \[bu]
+.IP -
 Make A New Great Occurance (MANGO)
 .RS
 .IP \[bu]
