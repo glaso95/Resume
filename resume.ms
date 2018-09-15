@@ -35,6 +35,8 @@ Skills, Languages and Technologies
 .IP \[bu]
 C/C++
 .IP \[bu]
+Objective-C
+.IP \[bu]
 Java
 .IP \[bu]
 HTML5, CSS3, PHP
@@ -46,8 +48,6 @@ x86, PDP11, M68k Assembler
 FORTRAN 77
 .IP \[bu]
 COBOL
-.IP \[bu]
-JCL
 .IP \[bu]
 Bourne/Bash Shell Scripting
 .IP \[bu]
@@ -94,6 +94,14 @@ Giga Networks, Inc.
 Summer 2013
 .IP \[bu]
 Programming Intern
+.IP \[bu]
+Miami, FL
+.RE
+.IP -
+Highlighting Education
+.RS
+.IP \[bu]
+2016-2018
 .IP \[bu]
 Miami, FL
 .RE
