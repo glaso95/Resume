@@ -5,22 +5,23 @@
 .I "Programmer/Systems Engineer"
 .sp 2
 .B1
-Phone: (786) 261-6131 | E-mail: glaso95@gmail.com | Location: Miami, FL
-| Github: https://github.com/glaso95 |
+(786) 261-6131 | glaso95@gmail.com | 22401 SW 88th Pl. Unit 8, Cutler Bay, FL 33190
+https://github.com/glaso95 | https://www.linkedin.com/in/glaso
 .B2
 .ps 12
 .SH
 Objectives
 .IP
-A recent graduate in the information technology field. A quick learner
-and an even quicker thinker. Works well in team situations. Primarily
-focused on legacy systems but proficient in modern technologies as well.
-Hoping to integrate and expand in whichever environment presents itself. 
+Skilled problem-solver able to communicate with users at all levels of technical proficiency.
+Troubleshoot, resolve and document user help requests for
+desktop, laptop, mobile, network and peripheral problems.
+Hoping to be involved in projects to program
+and develop interesting systems for the future.
 .2C
 .SH
 Education
 .IP -
-Florida International University
+Florida International University - B.S. in Information Technology
 .RS
 .IP \[bu]
 August 2013 - May 2018
@@ -41,17 +42,13 @@ C# and .NET Framework
 .IP \[bu]
 Java
 .IP \[bu]
-HTML5, CSS3, PHP, SQL
+HTML, CSS, PHP, SQL, JavaScript 
 .IP \[bu]
 x86, PDP11, M68k Assembler
 .IP \[bu]
-FORTRAN 77
+FORTRAN 77 & COBOL
 .IP \[bu]
-COBOL
-.IP \[bu]
-UNIX Shell Scripting
-.IP \[bu]
-Windows Scripting
+UNIX/Windows Scripting
 .RE
 .IP -
 Operating Systems
@@ -59,7 +56,9 @@ Operating Systems
 .IP \[bu]
 Unix/Linux/*BSD
 .IP \[bu]
-Windows
+macOS
+.IP \[bu]
+Windows XP-10
 .IP \[bu]
 MS-DOS
 .RE
@@ -74,6 +73,8 @@ Visual Studio
 NetBeans
 .IP \[bu]
 VirtualBox
+.IP \[bu]
+Git
 .RE
 .IP -
 Spoken Languages
@@ -85,33 +86,38 @@ English - Native
 .IP \[bu]
 German
 .RE
-.sp 4
 .SH
-.sp
+.br
 Career History
 .IP -
-OffCulture, LLC - 2017-2018
+OffCulture, LLC - Web Developer
+.br
+.I "Miami, FL - March 2017 - Present"
 .RS
 .IP \[bu]
-Web Developer
+Helped with writing backend code
 .IP \[bu]
-Miami, FL
+SQL Table normalization
 .RE
 .IP -
-Highlighting Education - 2016-2018
+Highlighting Education - System Admin.
+.br
+.I "Miami, FL - January 2016 - February 2017"
 .RS
 .IP \[bu]
-Web Developer & Administrator
+Writing and modifying the main website.
 .IP \[bu]
-Miami, FL
+Maintaining computers and other systems.
 .RE
 .IP -
-Giga Networks, Inc. - Summer 2013
+Giga Networks, Inc. - Intern
+.br
+.I "Miami, FL - May 2013 - August 2013"
 .RS
 .IP \[bu]
-Programming Intern
+Responsible for interface code between services
 .IP \[bu]
-Miami, FL
+Filled out paperwork/general adminstrative assistance.
 .RE
 .SH
 Certifications/Awards
